@@ -1,1 +1,1 @@
-test# chat-app
+Build an application where client and server will be communicating over the WebSocket protocol
